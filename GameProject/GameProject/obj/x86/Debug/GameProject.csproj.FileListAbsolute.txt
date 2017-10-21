@@ -1,0 +1,74 @@
+C:\Users\Joshua\Desktop\Beginning Game Programming\GameProject\GameProject\bin\Windows\Debug\GameProject.exe
+C:\Users\Joshua\Desktop\Beginning Game Programming\GameProject\GameProject\bin\Windows\Debug\GameProject.pdb
+C:\Users\Joshua\Desktop\Beginning Game Programming\GameProject\GameProject\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Joshua\Desktop\Beginning Game Programming\GameProject\GameProject\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Joshua\Desktop\Beginning Game Programming\GameProject\GameProject\bin\Windows\Debug\SharpDX.dll
+C:\Users\Joshua\Desktop\Beginning Game Programming\GameProject\GameProject\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Joshua\Desktop\Beginning Game Programming\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Joshua\Desktop\Beginning Game Programming\GameProject\GameProject\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Joshua\Desktop\Beginning Game Programming\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Joshua\Desktop\Beginning Game Programming\GameProject\GameProject\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Joshua\Desktop\Beginning Game Programming\GameProject\GameProject\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Joshua\Desktop\Beginning Game Programming\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Joshua\Desktop\Beginning Game Programming\GameProject\GameProject\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Joshua\Desktop\Beginning Game Programming\GameProject\GameProject\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Joshua\Desktop\Beginning Game Programming\GameProject\GameProject\bin\Windows\Debug\SharpDX.xml
+C:\Users\Joshua\Desktop\Beginning Game Programming\GameProject\GameProject\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Joshua\Desktop\Beginning Game Programming\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Joshua\Desktop\Beginning Game Programming\GameProject\GameProject\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Joshua\Desktop\Beginning Game Programming\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Joshua\Desktop\Beginning Game Programming\GameProject\GameProject\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Joshua\Desktop\Beginning Game Programming\GameProject\GameProject\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Joshua\Desktop\Beginning Game Programming\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Joshua\Desktop\Beginning Game Programming\GameProject\GameProject\obj\x86\Debug\GameProject.exe
+C:\Users\Joshua\Desktop\Beginning Game Programming\GameProject\GameProject\obj\x86\Debug\GameProject.pdb
+C:\Users\Joshua\Desktop\Beginning Game Programming\GameProject\GameProject\bin\Windows\Debug\Content\audio\BurgerDamage.xnb
+C:\Users\Joshua\Desktop\Beginning Game Programming\GameProject\GameProject\bin\Windows\Debug\Content\audio\BurgerDeath.xnb
+C:\Users\Joshua\Desktop\Beginning Game Programming\GameProject\GameProject\bin\Windows\Debug\Content\audio\BurgerShot.xnb
+C:\Users\Joshua\Desktop\Beginning Game Programming\GameProject\GameProject\bin\Windows\Debug\Content\audio\Explosion.xnb
+C:\Users\Joshua\Desktop\Beginning Game Programming\GameProject\GameProject\bin\Windows\Debug\Content\audio\TeddyBounce.xnb
+C:\Users\Joshua\Desktop\Beginning Game Programming\GameProject\GameProject\bin\Windows\Debug\Content\audio\TeddyShot.xnb
+C:\Users\Joshua\Desktop\Beginning Game Programming\GameProject\GameProject\bin\Windows\Debug\Content\fonts\Arial20.xnb
+C:\Users\Joshua\Desktop\Beginning Game Programming\GameProject\GameProject\bin\Windows\Debug\Content\graphics\burger.xnb
+C:\Users\Joshua\Desktop\Beginning Game Programming\GameProject\GameProject\bin\Windows\Debug\Content\graphics\explosion.xnb
+C:\Users\Joshua\Desktop\Beginning Game Programming\GameProject\GameProject\bin\Windows\Debug\Content\graphics\frenchfries.xnb
+C:\Users\Joshua\Desktop\Beginning Game Programming\GameProject\GameProject\bin\Windows\Debug\Content\graphics\teddybear.xnb
+C:\Users\Joshua\Desktop\Beginning Game Programming\GameProject\GameProject\bin\Windows\Debug\Content\graphics\teddybearprojectile.xnb
+C:\Users\Joshua\Desktop\Beginning Game Programming\GameProject\GameProject\obj\x86\Debug\GameProject.csprojResolveAssemblyReference.cache
+C:\Users\Joshua\Desktop\C sharp Projects\Beginning Game Programming\GameProject\GameProject\bin\Windows\Debug\Content\audio\BurgerDamage.xnb
+C:\Users\Joshua\Desktop\C sharp Projects\Beginning Game Programming\GameProject\GameProject\bin\Windows\Debug\Content\audio\BurgerDeath.xnb
+C:\Users\Joshua\Desktop\C sharp Projects\Beginning Game Programming\GameProject\GameProject\bin\Windows\Debug\Content\audio\BurgerShot.xnb
+C:\Users\Joshua\Desktop\C sharp Projects\Beginning Game Programming\GameProject\GameProject\bin\Windows\Debug\Content\audio\Explosion.xnb
+C:\Users\Joshua\Desktop\C sharp Projects\Beginning Game Programming\GameProject\GameProject\bin\Windows\Debug\Content\audio\TeddyBounce.xnb
+C:\Users\Joshua\Desktop\C sharp Projects\Beginning Game Programming\GameProject\GameProject\bin\Windows\Debug\Content\audio\TeddyShot.xnb
+C:\Users\Joshua\Desktop\C sharp Projects\Beginning Game Programming\GameProject\GameProject\bin\Windows\Debug\Content\fonts\Arial20.xnb
+C:\Users\Joshua\Desktop\C sharp Projects\Beginning Game Programming\GameProject\GameProject\bin\Windows\Debug\Content\graphics\burger.xnb
+C:\Users\Joshua\Desktop\C sharp Projects\Beginning Game Programming\GameProject\GameProject\bin\Windows\Debug\Content\graphics\explosion.xnb
+C:\Users\Joshua\Desktop\C sharp Projects\Beginning Game Programming\GameProject\GameProject\bin\Windows\Debug\Content\graphics\frenchfries.xnb
+C:\Users\Joshua\Desktop\C sharp Projects\Beginning Game Programming\GameProject\GameProject\bin\Windows\Debug\Content\graphics\teddybear.xnb
+C:\Users\Joshua\Desktop\C sharp Projects\Beginning Game Programming\GameProject\GameProject\bin\Windows\Debug\Content\graphics\teddybearprojectile.xnb
+C:\Users\Joshua\Desktop\C sharp Projects\Beginning Game Programming\GameProject\GameProject\bin\Windows\Debug\GameProject.exe
+C:\Users\Joshua\Desktop\C sharp Projects\Beginning Game Programming\GameProject\GameProject\bin\Windows\Debug\GameProject.pdb
+C:\Users\Joshua\Desktop\C sharp Projects\Beginning Game Programming\GameProject\GameProject\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Joshua\Desktop\C sharp Projects\Beginning Game Programming\GameProject\GameProject\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Joshua\Desktop\C sharp Projects\Beginning Game Programming\GameProject\GameProject\bin\Windows\Debug\SharpDX.dll
+C:\Users\Joshua\Desktop\C sharp Projects\Beginning Game Programming\GameProject\GameProject\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Joshua\Desktop\C sharp Projects\Beginning Game Programming\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Joshua\Desktop\C sharp Projects\Beginning Game Programming\GameProject\GameProject\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Joshua\Desktop\C sharp Projects\Beginning Game Programming\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Joshua\Desktop\C sharp Projects\Beginning Game Programming\GameProject\GameProject\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Joshua\Desktop\C sharp Projects\Beginning Game Programming\GameProject\GameProject\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Joshua\Desktop\C sharp Projects\Beginning Game Programming\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Joshua\Desktop\C sharp Projects\Beginning Game Programming\GameProject\GameProject\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Joshua\Desktop\C sharp Projects\Beginning Game Programming\GameProject\GameProject\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Joshua\Desktop\C sharp Projects\Beginning Game Programming\GameProject\GameProject\bin\Windows\Debug\SharpDX.xml
+C:\Users\Joshua\Desktop\C sharp Projects\Beginning Game Programming\GameProject\GameProject\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Joshua\Desktop\C sharp Projects\Beginning Game Programming\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Joshua\Desktop\C sharp Projects\Beginning Game Programming\GameProject\GameProject\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Joshua\Desktop\C sharp Projects\Beginning Game Programming\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Joshua\Desktop\C sharp Projects\Beginning Game Programming\GameProject\GameProject\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Joshua\Desktop\C sharp Projects\Beginning Game Programming\GameProject\GameProject\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Joshua\Desktop\C sharp Projects\Beginning Game Programming\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Joshua\Desktop\C sharp Projects\Beginning Game Programming\GameProject\GameProject\obj\x86\Debug\GameProject.exe
+C:\Users\Joshua\Desktop\C sharp Projects\Beginning Game Programming\GameProject\GameProject\obj\x86\Debug\GameProject.pdb
+C:\Users\Joshua\Desktop\C sharp Projects\Beginning Game Programming\GameProject\GameProject\obj\x86\Debug\GameProject.csprojResolveAssemblyReference.cache
